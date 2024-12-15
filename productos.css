@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+main {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    gap: 20px;
+    background-image: linear-gradient();
+}
+body
+{
+    background-image: url(/Multimedia/fondo.avif);
+}
+.polariod 
+{
+    text-align: center;
+}
+.polariod img 
+{
+    height: 300px;
+    width: 280px;
+    border: 20px solid white;
+    border-bottom: 40px solid white;
+    display: block; 
+    margin: 0 auto;
+}
+.polariod 
+{
+    margin-top: -20px;
+    background-color: white; /* Fondo blanco para claridad */
+    padding: 5px;
+
+}
+header
+{
+    border: 1px solid #000000;
+}
+header img
+{
+    margin-left: 200px;
+}
+body
+{
+    background-color: rgb(219, 165, 219);
+}
+nav 
+{
+    background-color: pink; 
+}
+nav ul
+{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    background-color: rgb(40, 172, 196);
+}
+nav li a
+{
+    text-decoration: none;
+    display: block;
+    color: white;
+}
+footer
+{
+    text-align: right;
+}
+
